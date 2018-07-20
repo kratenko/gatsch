@@ -1,0 +1,7 @@
+# virtuel environment
+venv
+
+# intellij project
+.idea
+
+**/.~*
